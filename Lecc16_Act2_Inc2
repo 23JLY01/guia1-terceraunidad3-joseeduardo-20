@@ -5,7 +5,7 @@ internal class Program
     private static void Main(string[] args)
     {
         Console.WriteLine("Lecc16_Act2_Inc2");
-        Console.WriteLine("Eduardo Lopez-20");
+        Console.WriteLine("eLine("Eduardo Lopez / Clave:20");
 
         int[] numEnt = new int[8];
         int MA = 0;
